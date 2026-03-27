@@ -195,7 +195,7 @@ const Placements = () => {
                 className="glass-card rounded-2xl border border-white/5 hover:border-primary/30 transition-all p-5 flex flex-col items-center justify-center gap-3 group h-28"
               >
                 <img
-                  src={r.logo}
+                  src={`https://ui-avatars.com/api/?name=${r.name}`}
                   alt={r.name}
                   className="h-8 w-auto object-contain filter brightness-0 invert opacity-50 group-hover:opacity-90 transition-opacity"
                   onError={(e) => { e.target.style.display = 'none'; }}
