@@ -1,0 +1,279 @@
+[
+  {
+    "id": "cse",
+    "name": "Computer Science & Engineering",
+    "shortName": "CSE",
+    "tagline": "Building the architects of tomorrow's digital world.",
+    "category": "Engineering",
+    "icon": "Monitor",
+    "color": "#3b82f6",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+    "overview": "The Department of Computer Science & Engineering at Nexus University is a globally recognized center for computing education and research. Established in 1998, the department offers cutting-edge programs that blend theoretical foundations with hands-on industry experience. Our curriculum is continuously updated in collaboration with leading tech companies to ensure graduates are ready to tackle real-world challenges in AI, cybersecurity, cloud computing, and software engineering.",
+    "vision": "To be a world-leading department that drives innovation in computing, producing graduates who shape the future of technology and society.",
+    "mission": "To deliver transformative education in computer science through rigorous academics, pioneering research, and strong industry partnerships, fostering ethical technologists and lifelong learners.",
+    "studentCount": 1200,
+    "established": 1998,
+    "programs": [
+      { "name": "B.Tech Computer Science & Engineering", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "B.Tech CSE (AI & Machine Learning)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "B.Tech CSE (Cybersecurity)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "M.Tech Computer Science", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "M.Tech Data Science", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "Ph.D. in Computer Science", "duration": "3-5 Years", "type": "Doctoral" }
+    ],
+    "faculty": [
+      { "name": "Dr. Arjun Mehta", "designation": "Professor & HOD", "specialization": "Artificial Intelligence, Deep Learning", "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80", "email": "arjun.mehta@nexus.edu" },
+      { "name": "Dr. Priya Sharma", "designation": "Associate Professor", "specialization": "Cybersecurity, Cryptography", "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80", "email": "priya.sharma@nexus.edu" },
+      { "name": "Dr. Vikram Patel", "designation": "Assistant Professor", "specialization": "Cloud Computing, Distributed Systems", "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80", "email": "vikram.patel@nexus.edu" },
+      { "name": "Dr. Neha Gupta", "designation": "Assistant Professor", "specialization": "Natural Language Processing", "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80", "email": "neha.gupta@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "AI & Machine Learning Lab", "description": "Equipped with NVIDIA DGX stations, GPU clusters, and TensorFlow/PyTorch development environments for deep learning research." },
+      { "name": "Cybersecurity Research Center", "description": "A dedicated facility for ethical hacking, penetration testing, and blockchain security analysis." },
+      { "name": "Cloud & IoT Innovation Lab", "description": "Partnered with AWS and Azure, featuring edge computing devices and IoT sensor networks." },
+      { "name": "Software Engineering Studio", "description": "Agile development workspace with CI/CD pipelines, code review stations, and collaborative coding tools." }
+    ],
+    "achievements": [
+      "Ranked #3 nationally for Computer Science research output in 2025.",
+      "Students won 1st place at the International Collegiate Programming Contest (ICPC) Regionals.",
+      "Secured $12M in grants from Google, Microsoft, and DARPA for AI safety research.",
+      "Published 150+ papers in top-tier venues (NeurIPS, CVPR, ACL) in the last academic year.",
+      "Alumni placed at Google, Meta, Amazon, and leading startups with an average package of $145K."
+    ],
+    "hod": {
+      "name": "Dr. Arjun Mehta",
+      "designation": "Professor & Head of Department",
+      "email": "arjun.mehta@nexus.edu",
+      "phone": "+91-9876543210",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80",
+      "message": "Welcome to the Department of Computer Science & Engineering. We are committed to nurturing the next generation of technology leaders through world-class education and impactful research. I invite you to explore the incredible opportunities our department offers."
+    }
+  },
+  {
+    "id": "ece",
+    "name": "Electronics & Communication Engineering",
+    "shortName": "ECE",
+    "tagline": "Pioneering the future of connectivity and intelligent systems.",
+    "category": "Engineering",
+    "icon": "Cpu",
+    "color": "#8b5cf6",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "overview": "The ECE department at Nexus University stands at the forefront of electronics innovation. From VLSI design to 5G communications and embedded systems, our programs prepare students for careers in semiconductor, telecom, and robotics industries. The department boasts state-of-the-art labs and collaborations with Intel, Qualcomm, and Texas Instruments.",
+    "vision": "To lead global advancement in electronics and communication technologies, crafting engineers who connect the world.",
+    "mission": "To provide excellence in electronics education through innovative teaching, interdisciplinary research, and industry engagement that addresses society's most pressing connectivity challenges.",
+    "studentCount": 900,
+    "established": 2001,
+    "programs": [
+      { "name": "B.Tech Electronics & Communication", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "B.Tech ECE (VLSI Design)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "M.Tech Embedded Systems", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "M.Tech Communication Systems", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "Ph.D. in Electronics Engineering", "duration": "3-5 Years", "type": "Doctoral" }
+    ],
+    "faculty": [
+      { "name": "Dr. Rajesh Kumar", "designation": "Professor & HOD", "specialization": "VLSI Design, Semiconductor Physics", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80", "email": "rajesh.kumar@nexus.edu" },
+      { "name": "Dr. Sunita Reddy", "designation": "Associate Professor", "specialization": "5G Networks, Signal Processing", "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&w=300&q=80", "email": "sunita.reddy@nexus.edu" },
+      { "name": "Dr. Manish Iyer", "designation": "Assistant Professor", "specialization": "Robotics, Control Systems", "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80", "email": "manish.iyer@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "VLSI & Chip Design Lab", "description": "Features Cadence and Synopsys EDA tools for full-stack chip design from RTL to GDSII." },
+      { "name": "5G & Wireless Communication Lab", "description": "Software-defined radio platforms, spectrum analyzers, and 5G NR test beds." },
+      { "name": "Robotics & Automation Center", "description": "Industrial robot arms, drone prototyping stations, and ROS development environments." }
+    ],
+    "achievements": [
+      "Designed a custom RISC-V processor that was taped out at TSMC's 28nm foundry.",
+      "Won the IEEE Region 10 'Best Student Branch' award for three consecutive years.",
+      "Faculty published 80+ papers in IEEE Transactions journals in 2024-25.",
+      "Students secured internships at Intel, Qualcomm, and Samsung R&D."
+    ],
+    "hod": {
+      "name": "Dr. Rajesh Kumar",
+      "designation": "Professor & Head of Department",
+      "email": "rajesh.kumar@nexus.edu",
+      "phone": "+91-9876543211",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+      "message": "The ECE department is where curiosity meets circuitry. Our graduates are shaping the semiconductor and telecom industries globally. Join us to build the future of intelligent hardware."
+    }
+  },
+  {
+    "id": "me",
+    "name": "Mechanical Engineering",
+    "shortName": "ME",
+    "tagline": "Engineering the machines that move the world forward.",
+    "category": "Engineering",
+    "icon": "Wrench",
+    "color": "#f59e0b",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80",
+    "overview": "The Mechanical Engineering department combines classical engineering principles with modern manufacturing technologies. Students gain expertise in thermal sciences, solid mechanics, CAD/CAM, and sustainable energy systems. Our workshops and labs feature CNC machines, 3D metal printers, and wind tunnel testing facilities.",
+    "vision": "To be a center of excellence in mechanical engineering, driving sustainable innovation in manufacturing, energy, and design.",
+    "mission": "To educate versatile mechanical engineers equipped with analytical skills, design thinking, and hands-on expertise to solve global engineering challenges.",
+    "studentCount": 750,
+    "established": 1995,
+    "programs": [
+      { "name": "B.Tech Mechanical Engineering", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "B.Tech ME (Automotive Engineering)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "M.Tech Thermal Engineering", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "M.Tech Manufacturing Systems", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "Ph.D. in Mechanical Engineering", "duration": "3-5 Years", "type": "Doctoral" }
+    ],
+    "faculty": [
+      { "name": "Dr. Sanjay Deshmukh", "designation": "Professor & HOD", "specialization": "Thermodynamics, Renewable Energy", "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80", "email": "sanjay.deshmukh@nexus.edu" },
+      { "name": "Dr. Kavitha Nair", "designation": "Associate Professor", "specialization": "Robotics, Mechatronics", "image": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?auto=format&fit=crop&w=300&q=80", "email": "kavitha.nair@nexus.edu" },
+      { "name": "Dr. Amit Joshi", "designation": "Assistant Professor", "specialization": "CAD/CAM, Additive Manufacturing", "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80", "email": "amit.joshi@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "Advanced Manufacturing Lab", "description": "CNC machining centers, 3D metal printers (DMLS), and laser cutting systems." },
+      { "name": "Thermal & Fluid Sciences Lab", "description": "Wind tunnels, heat exchangers, and computational fluid dynamics workstations." },
+      { "name": "CAD/CAM Design Studio", "description": "SolidWorks, CATIA, and ANSYS simulation stations for product design and analysis." }
+    ],
+    "achievements": [
+      "Formula Student team ranked in the Top 10 at Formula SAE International 2025.",
+      "Awarded ₹5 Crore research grant from ISRO for satellite thermal management systems.",
+      "Student team designed an award-winning solar-powered vehicle at Shell Eco-Marathon.",
+      "Faculty holds 25+ active patents in advanced manufacturing and green energy."
+    ],
+    "hod": {
+      "name": "Dr. Sanjay Deshmukh",
+      "designation": "Professor & Head of Department",
+      "email": "sanjay.deshmukh@nexus.edu",
+      "phone": "+91-9876543212",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
+      "message": "Mechanical engineering is the backbone of innovation. At Nexus, we blend hands-on experience with cutting-edge research to prepare engineers who can design, build, and optimize the systems of tomorrow."
+    }
+  },
+  {
+    "id": "bba",
+    "name": "Business Administration",
+    "shortName": "BBA",
+    "tagline": "Cultivating visionary leaders for the global business landscape.",
+    "category": "Management",
+    "icon": "TrendingUp",
+    "color": "#10b981",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+    "overview": "The School of Business Administration at Nexus University delivers globally benchmarked management education. Our programs emphasize strategic thinking, entrepreneurship, and data-driven decision-making. With case-study pedagogy inspired by top B-schools and live industry projects, graduates are equipped to lead in an increasingly complex business environment.",
+    "vision": "To cultivate ethical, innovative, and globally minded business leaders who create value for organizations and society.",
+    "mission": "To deliver excellence in management education through experiential learning, mentorship from industry veterans, and a curriculum that bridges theory with practice.",
+    "studentCount": 600,
+    "established": 2005,
+    "programs": [
+      { "name": "BBA (Hons.)", "duration": "3 Years", "type": "Undergraduate" },
+      { "name": "BBA (Finance & Analytics)", "duration": "3 Years", "type": "Undergraduate" },
+      { "name": "MBA (General Management)", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "MBA (Marketing & Digital Strategy)", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "Executive MBA", "duration": "1 Year", "type": "Postgraduate" }
+    ],
+    "faculty": [
+      { "name": "Dr. Lakshmi Venkataraman", "designation": "Professor & Dean", "specialization": "Strategic Management, Corporate Governance", "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=300&q=80", "email": "lakshmi.v@nexus.edu" },
+      { "name": "Prof. Rohan Chatterjee", "designation": "Associate Professor", "specialization": "Marketing Strategy, Consumer Behavior", "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&w=300&q=80", "email": "rohan.c@nexus.edu" },
+      { "name": "Dr. Ananya Bose", "designation": "Assistant Professor", "specialization": "Financial Analytics, Fintech", "image": "https://images.unsplash.com/photo-1598550874175-4d3ef92d5ce8?auto=format&fit=crop&w=300&q=80", "email": "ananya.bose@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "Bloomberg Finance Lab", "description": "Real-time Bloomberg terminals for stock market analysis and portfolio management simulations." },
+      { "name": "Entrepreneurship & Innovation Hub", "description": "Co-working space with prototyping tools, pitch rooms, and mentorship from startup founders." }
+    ],
+    "achievements": [
+      "MBA program ranked in the Top 20 nationally by Business Today Magazine.",
+      "Students won the CFA Institute Research Challenge at the Asia-Pacific level.",
+      "Over 200 startups incubated through the Nexus Entrepreneurship Cell since 2015.",
+      "100% placement rate for MBA batch of 2025 with top recruiters including McKinsey and Deloitte."
+    ],
+    "hod": {
+      "name": "Dr. Lakshmi Venkataraman",
+      "designation": "Professor & Dean, School of Business",
+      "email": "lakshmi.v@nexus.edu",
+      "phone": "+91-9876543213",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=300&q=80",
+      "message": "Business is about creating impact. Our programs are designed to build leaders who think critically, act ethically, and innovate fearlessly. Welcome to the School of Business at Nexus."
+    }
+  },
+  {
+    "id": "bio",
+    "name": "Biotechnology",
+    "shortName": "BIO",
+    "tagline": "Innovating at the intersection of biology and technology.",
+    "category": "Sciences",
+    "icon": "FlaskConical",
+    "color": "#ec4899",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=800&q=80",
+    "overview": "The Department of Biotechnology at Nexus University is a hub for life science innovation. Our interdisciplinary approach combines molecular biology, bioinformatics, and bioprocess engineering to address challenges in healthcare, agriculture, and environmental sustainability. The department has BSL-2 certified laboratories and collaborations with pharmaceutical giants and research institutes.",
+    "vision": "To pioneer biotechnological solutions that improve human health, protect the environment, and advance agricultural sustainability.",
+    "mission": "To train the next generation of biotechnologists through rigorous academic programs, cutting-edge research, and ethical innovation that translates lab discoveries into real-world impact.",
+    "studentCount": 400,
+    "established": 2008,
+    "programs": [
+      { "name": "B.Tech Biotechnology", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "M.Tech Biomedical Engineering", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "M.Sc. Bioinformatics", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "Ph.D. in Biotechnology", "duration": "3-5 Years", "type": "Doctoral" }
+    ],
+    "faculty": [
+      { "name": "Dr. Meera Krishnan", "designation": "Professor & HOD", "specialization": "Genomics, CRISPR Technology", "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=300&q=80", "email": "meera.k@nexus.edu" },
+      { "name": "Dr. Arun Saxena", "designation": "Associate Professor", "specialization": "Drug Discovery, Pharmacogenomics", "image": "https://images.unsplash.com/photo-1528892952291-009c663ce843?auto=format&fit=crop&w=300&q=80", "email": "arun.saxena@nexus.edu" },
+      { "name": "Dr. Fathima Zahra", "designation": "Assistant Professor", "specialization": "Environmental Biotechnology", "image": "https://images.unsplash.com/photo-1614283233556-f35b0c801ef1?auto=format&fit=crop&w=300&q=80", "email": "fathima.z@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "Molecular Biology & Genomics Lab", "description": "Equipped with next-gen sequencers (Illumina NovaSeq), PCR thermal cyclers, and gel electrophoresis systems." },
+      { "name": "Bioinformatics Computing Center", "description": "High-performance computing cluster running BLAST, Galaxy, and custom genomic analysis pipelines." },
+      { "name": "Bioprocess Engineering Lab", "description": "Bioreactors, fermenters, and downstream processing equipment for biopharmaceutical production." }
+    ],
+    "achievements": [
+      "Published a breakthrough CRISPR-based gene therapy paper in Nature Biotechnology.",
+      "Secured a ₹10 Crore grant from DBT for cancer biomarker research.",
+      "Student team won the iGEM Gold Medal at the international synthetic biology competition.",
+      "Established a biotech startup incubator that has launched 15 life science startups."
+    ],
+    "hod": {
+      "name": "Dr. Meera Krishnan",
+      "designation": "Professor & Head of Department",
+      "email": "meera.k@nexus.edu",
+      "phone": "+91-9876543214",
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=300&q=80",
+      "message": "Biotechnology holds the key to solving humanity's greatest challenges — from curing diseases to feeding the planet sustainably. At Nexus, we empower students to be at the forefront of this revolution."
+    }
+  },
+  {
+    "id": "design",
+    "name": "Design & Creative Arts",
+    "shortName": "DCA",
+    "tagline": "Where imagination meets craft to create meaningful experiences.",
+    "category": "Arts & Design",
+    "icon": "Palette",
+    "color": "#f97316",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?auto=format&fit=crop&w=800&q=80",
+    "overview": "The Department of Design & Creative Arts nurtures creative thinkers and problem solvers. Our programs span UX/UI design, graphic design, animation, and product design, blending aesthetics with functionality. Students work in dedicated studios equipped with industry-standard tools and collaborate on real-world projects with leading design firms.",
+    "vision": "To be a globally recognized design school that shapes culture, technology, and human experience through creative excellence.",
+    "mission": "To educate empathetic designers who combine artistic vision with technological fluency to create products, services, and experiences that enrich lives.",
+    "studentCount": 350,
+    "established": 2012,
+    "programs": [
+      { "name": "B.Des (UX/UI Design)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "B.Des (Graphic & Communication Design)", "duration": "4 Years", "type": "Undergraduate" },
+      { "name": "M.Des (Interaction Design)", "duration": "2 Years", "type": "Postgraduate" },
+      { "name": "M.Des (Product Design)", "duration": "2 Years", "type": "Postgraduate" }
+    ],
+    "faculty": [
+      { "name": "Prof. Aisha Khan", "designation": "Professor & HOD", "specialization": "Interaction Design, Design Thinking", "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80", "email": "aisha.khan@nexus.edu" },
+      { "name": "Prof. Dev Kapoor", "designation": "Associate Professor", "specialization": "Motion Graphics, 3D Animation", "image": "https://images.unsplash.com/photo-1542178243-bc20204b769f?auto=format&fit=crop&w=300&q=80", "email": "dev.kapoor@nexus.edu" },
+      { "name": "Prof. Rhea Mathur", "designation": "Assistant Professor", "specialization": "Typography, Brand Identity", "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80", "email": "rhea.mathur@nexus.edu" }
+    ],
+    "labs": [
+      { "name": "UX Research & Prototyping Lab", "description": "Eye-tracking systems, usability testing booths, and Figma/Sketch enterprise licenses." },
+      { "name": "Digital Fabrication Studio", "description": "Laser cutters, 3D printers, CNC routers, and a materials library for physical prototyping." },
+      { "name": "Animation & Motion Studio", "description": "Wacom Cintiq displays, Adobe Creative Suite, Cinema 4D, and green screen setup." }
+    ],
+    "achievements": [
+      "Students won Red Dot Design Concept Award for a sustainable packaging solution.",
+      "Graduate projects featured at Milan Design Week and India Design Festival.",
+      "Department collaborated with Google to redesign accessibility features for Android.",
+      "Alumni working at Apple, IDEO, Frog Design, and leading UX teams globally."
+    ],
+    "hod": {
+      "name": "Prof. Aisha Khan",
+      "designation": "Professor & Head of Department",
+      "email": "aisha.khan@nexus.edu",
+      "phone": "+91-9876543215",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+      "message": "Design is not just about making things look beautiful — it's about making them work beautifully. Our department teaches students to think deeply, create boldly, and design for impact."
+    }
+  }
+]

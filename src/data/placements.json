@@ -1,0 +1,89 @@
+{
+  "stats": {
+    "totalOffers": 1850,
+    "highestPackage": "₹72 LPA",
+    "averagePackage": "₹18.5 LPA",
+    "medianPackage": "₹14.2 LPA",
+    "placementRate": 98,
+    "companiesVisited": 320,
+    "internshipConversions": 42,
+    "internationalOffers": 85
+  },
+  "yearWisePlacements": [
+    { "year": "2020", "placed": 78, "avgPackage": 9.2 },
+    { "year": "2021", "placed": 84, "avgPackage": 11.5 },
+    { "year": "2022", "placed": 89, "avgPackage": 13.8 },
+    { "year": "2023", "placed": 93, "avgPackage": 15.4 },
+    { "year": "2024", "placed": 96, "avgPackage": 17.1 },
+    { "year": "2025", "placed": 98, "avgPackage": 18.5 }
+  ],
+  "departmentWise": [
+    { "dept": "CSE", "placed": 99, "avg": 22.5 },
+    { "dept": "ECE", "placed": 97, "avg": 16.8 },
+    { "dept": "ME", "placed": 94, "avg": 13.2 },
+    { "dept": "BBA", "placed": 100, "avg": 15.6 },
+    { "dept": "BIO", "placed": 92, "avg": 12.4 },
+    { "dept": "DCA", "placed": 96, "avg": 17.9 }
+  ],
+  "sectorDistribution": [
+    { "name": "IT & Software", "value": 38 },
+    { "name": "Finance & Consulting", "value": 18 },
+    { "name": "Core Engineering", "value": 14 },
+    { "name": "Healthcare & Biotech", "value": 10 },
+    { "name": "Design & Media", "value": 8 },
+    { "name": "E-Commerce", "value": 7 },
+    { "name": "Others", "value": 5 }
+  ],
+  "topRecruiters": [
+    { "name": "Google", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" },
+    { "name": "Microsoft", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
+    { "name": "Amazon", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" },
+    { "name": "Goldman Sachs", "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Goldman_Sachs.svg" },
+    { "name": "Adobe", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" },
+    { "name": "Deloitte", "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" },
+    { "name": "Intel", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg" },
+    { "name": "Infosys", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" },
+    { "name": "TCS", "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg" },
+    { "name": "McKinsey", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/McKinsey_and_Company_Logo_1.svg" },
+    { "name": "Samsung", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" },
+    { "name": "Tesla", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" }
+  ],
+  "packageBrackets": [
+    { "range": "5-10 LPA", "count": 320 },
+    { "range": "10-15 LPA", "count": 540 },
+    { "range": "15-20 LPA", "count": 420 },
+    { "range": "20-30 LPA", "count": 310 },
+    { "range": "30-50 LPA", "count": 180 },
+    { "range": "50+ LPA", "count": 80 }
+  ],
+  "testimonials": [
+    {
+      "name": "Riya Kapoor",
+      "role": "SDE II at Google",
+      "batch": "CSE, Class of 2024",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80",
+      "quote": "The placement cell at Nexus went above and beyond. From mock interviews to resume workshops, I felt completely prepared. Landing a role at Google was a dream come true, and Nexus made it possible."
+    },
+    {
+      "name": "Arjun Verma",
+      "role": "Analyst at Goldman Sachs",
+      "batch": "BBA, Class of 2024",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+      "quote": "The industry exposure and case competitions organized by the Business School gave me a significant edge. The placement team's connections with top financial firms are truly exceptional."
+    },
+    {
+      "name": "Sneha Reddy",
+      "role": "UX Designer at Apple",
+      "batch": "Design, Class of 2023",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80",
+      "quote": "Nexus doesn't just place you — it prepares you for a career. The design portfolio reviews with industry mentors and the international exposure trips shaped me into a confident professional."
+    },
+    {
+      "name": "Karthik Iyer",
+      "role": "Chip Design Engineer at Intel",
+      "batch": "ECE, Class of 2025",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
+      "quote": "The VLSI lab at Nexus is world-class. I got to tape out an actual chip during my final year project, and that experience directly helped me crack the Intel interview. Forever grateful to the ECE department."
+    }
+  ]
+}
